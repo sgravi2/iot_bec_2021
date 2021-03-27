@@ -1,0 +1,18 @@
+//Arduino Sotware Link
+https://www.arduino.cc/en/Main/Donate
+
+//ESP8266 Library Package
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+//MQTT Fx Sotware link
+https://drive.google.com/file/d/1Tt4A5RwFNyIckiiyxvlNJ-q-8P3bOgpI/view?usp=sharing
+
+//Adafruit Cloud
+https://io.adafruit.com/
+
+https://ifttt.com/
+
+https://github.com/esp8266/Arduino/releases/download/2.3.0/package_esp8266com_index.json
+
+
+
